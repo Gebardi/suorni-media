@@ -18,7 +18,7 @@
       "url": "https://raw.githubusercontent.com/Gebardi/suorni-media/main/videot/jokerit_osa1_toolon_vesa.mp4",
       "kuvateksti": "Muistatko vielä Töölön Vesan? 🧣 Tästä mun Jokeri-tarina alkaa. Osa 1/4, seuraa niin näet miten käy!\n\nKoko biisi soi Radio Suornissa, linkki biossa 📻\n\n#jokerit #jääkiekko #stadi #suomimusiikki",
       "hyvaksytty": true,
-      "tila": "odottaa",
+      "tila": "ajastettu_metricooliin",
       "permalink": null
     },
     {
@@ -27,7 +27,7 @@
       "url": "https://raw.githubusercontent.com/Gebardi/suorni-media/main/videot/jokerit_bonus_ei_oo_ku_jokerit.mp4",
       "kuvateksti": "Ääni päälle ja huuda mukana 🔊 Ei oo ku Jokerit!\n\nKoko biisi soi Radio Suornissa, linkki biossa 📻\n\n#jokerit #jääkiekko #stadi",
       "hyvaksytty": true,
-      "tila": "odottaa",
+      "tila": "ajastettu_metricooliin",
       "permalink": null
     },
     {
@@ -36,7 +36,7 @@
       "url": "https://raw.githubusercontent.com/Gebardi/suorni-media/main/videot/jokerit_osa2_rap.mp4",
       "kuvateksti": "Jokereiden tarina räppinä 🎤 Töölöstä Venäjälle ja takaisin kotiin. Mitä mieltä olit KHL-ajasta? 👇 Osa 2/4.\n\nKoko biisi soi Radio Suornissa, linkki biossa 📻\n\n#jokerit #jääkiekko #suomiräp #stadi",
       "hyvaksytty": true,
-      "tila": "odottaa",
+      "tila": "ajastettu_metricooliin",
       "permalink": null
     },
     {
@@ -45,7 +45,7 @@
       "url": "https://raw.githubusercontent.com/Gebardi/suorni-media/main/videot/tekoalyradio_promo.mp4",
       "kuvateksti": "Tein radiokanavan, jota juontaa tekoäly 🤖📻 Toivo biisi ja kuuntele, mitä juontaja siitä sanoo 👀 Linkki biossa!\n\n#nettiradio #suomimusiikki #radio",
       "hyvaksytty": true,
-      "tila": "odottaa",
+      "tila": "ajastettu_metricooliin",
       "permalink": null
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://raw.githubusercontent.com/Gebardi/suorni-media/main/videot/jokerit_osa3_paluu.mp4",
       "kuvateksti": "Kun Jokerit palasi kotiin 🏆 Missä sä olit, kun pokaali nousi? 👇 Osa 3/4.\n\nKoko biisi soi Radio Suornissa, linkki biossa 📻\n\n#jokerit #jääkiekko #mestis #stadi",
       "hyvaksytty": true,
-      "tila": "odottaa",
+      "tila": "ajastettu_metricooliin",
       "permalink": null
     },
     {
@@ -63,7 +63,7 @@
       "url": "https://raw.githubusercontent.com/Gebardi/suorni-media/main/videot/jokerit_osa4_isalta_pojalle.mp4",
       "kuvateksti": "Tägää se, joka vei sut ekaan peliin 🏒❤️ Pieni poika kasvoi isäksi, ja laulu jatkuu. Viimeinen osa 4/4.\n\nKoko biisi soi Radio Suornissa, linkki biossa 📻\n\n#jokerit #jääkiekko #stadi #suomimusiikki",
       "hyvaksytty": true,
-      "tila": "odottaa",
+      "tila": "ajastettu_metricooliin",
       "permalink": null
     },
     {
@@ -72,7 +72,7 @@
       "url": "https://raw.githubusercontent.com/Gebardi/suorni-media/main/videot/kantapoyta_kertosae.mp4",
       "kuvateksti": "Jokaisessa kapakassa on yksi Rauno 🧢🍺 Tägää teidän porukan Rauno 👇\n\nKoko biisi soi Radio Suornissa, linkki biossa 📻\n\n#kapakka #kantapöytä #suomimusiikki #baari #kippis",
       "hyvaksytty": true,
-      "tila": "odottaa",
+      "tila": "ajastettu_metricooliin",
       "permalink": null
     },
     {
@@ -81,7 +81,7 @@
       "url": "https://raw.githubusercontent.com/Gebardi/suorni-media/main/videot/kantapoyta_kippis_luuppi.mp4",
       "kuvateksti": "Ääni päälle ja kippis! 🍻 Kantapöydän kuningas, koko biisi Radio Suornissa.\n\n#kippis #kapakka #suomimusiikki",
       "hyvaksytty": true,
-      "tila": "odottaa",
+      "tila": "ajastettu_metricooliin",
       "permalink": null
     },
     {
@@ -90,8 +90,9 @@
       "url": "https://raw.githubusercontent.com/Gebardi/suorni-media/main/videot/kantapoyta_loppu.mp4",
       "kuvateksti": "Valomerkki välähtää, mutta huomenna taas tässä 💡🍺 Hyvää yötä, Rauno! Mikä on teidän kantapaikka? 👇\n\nKoko biisi soi Radio Suornissa, linkki biossa 📻\n\n#kapakka #valomerkki #suomimusiikki #baari",
       "hyvaksytty": true,
-      "tila": "odottaa",
+      "tila": "ajastettu_metricooliin",
       "permalink": null
     }
-  ]
+  ],
+  "huom": "1.11.2026 alkaen Instagram (koe-Reels) + Facebook (Reels) + TikTok ajastetaan Metricoolissa (brand 7787210). Vanha vidIQ-ajastus on pysäytetty."
 }

@@ -1,7 +1,7 @@
-# Ohjeet ajastetuille ajoille (Radio Suorni, Instagram)
+# Ohjeet (Radio Suorni, somejulkaisut)
 
 - Vastaa ja raportoi suomeksi.
-- Julkaise Instagramiin vain `instagram-aikataulu.json`-rivejä, joilla `hyvaksytty` on true, `tila` on "odottaa" ja `pvm` on tänään (Europe/Helsinki). Ei koskaan muuta videota tai kuvatekstiä kuin rivillä.
-- Julkaisu: vidIQ `vidiq_instagram_connected_accounts` → tili `radiosuorni` → `vidiq_video_upload` (url = rivin url) → `vidiq_instagram_publish_reel` (videoUrl = vidIQ:n palauttama, caption = rivin kuvateksti, ei isAiGenerated, ei trialParams). Jatka containerId/mcpJobId-kutsuilla kunnes PUBLISHED. Virheessä älä yritä uudelleen, raportoi.
-- Päivitä rivin `tila` ("julkaistu"/"virhe") ja `permalink`, commit + push mainiin.
-- Sanaa "Suno" tai Suno-tilin nimeä ei saa koskaan kirjoittaa julkiseen sisältöön.
+- 1.11.2026 alkaen kaikki julkaisut ajastetaan Metricoolissa (brand "Radio Suorni", blogId 7787210): Instagram koe-Reelsinä (TRIAL_REEL), Facebook Reelsinä ja TikTok. Videoiden media-URL on tämän repon raw-osoite (raw.githubusercontent.com/Gebardi/suorni-media/main/videot/...).
+- Vanha vidIQ-pohjainen ajastettu tehtävä on pysäytetty. Älä julkaise vidIQ:lla rivejä, joiden tila on "ajastettu_metricooliin".
+- Julkaise vain Markuksen hyväksymiä videoita ja kuvatekstejä.
+- Sanaa "Suno" tai sen tilin käyttäjätunnusta ei saa koskaan kirjoittaa julkiseen sisältöön. Tekoälymerkintää ei lisätä (Markuksen päätös).
