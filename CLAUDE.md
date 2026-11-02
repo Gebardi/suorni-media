@@ -5,3 +5,4 @@
 - Vanha vidIQ-pohjainen ajastettu tehtävä on pysäytetty. Älä julkaise vidIQ:lla rivejä, joiden tila on "ajastettu_metricooliin".
 - Julkaise vain Markuksen hyväksymiä videoita ja kuvatekstejä.
 - Sanaa "Suno" tai sen tilin käyttäjätunnusta ei saa koskaan kirjoittaa julkiseen sisältöön. Tekoälymerkintää ei lisätä (Markuksen päätös).
+- Kaikki julkiset tekstit (videoiden koukut, lopputekstit, kuvatekstit) tarkistetaan ennen ajastusta projektin ohjeen `claude/kielenhuolto-sanoitukset.md` mukaan: yksi kielimuoto per teksti (omat tekstit yleiskieltä: sinä, minä; laulun sanat lainataan sellaisinaan), kongruenssi, objektin sija (passiivin objekti ja toistuva teko: "Mitä laulua sinulle laulettiin?", ei "Minkä laulun sulle laulettiin?"), yhdyssanat, ei kapulakieltä.
